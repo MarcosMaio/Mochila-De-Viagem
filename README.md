@@ -1,5 +1,5 @@
 # Mochila-De-Viagem <br>
-link do servidor que o site está hospedado via vercel: https://mochila-de-viagem-23tf.vercel.app/ <br>
+link do servidor que o site está hospedado via vercel: https://mochila-de-viagem-23tf.vercel.app/ <br> 
 
 #### O site em questão é uma plataforma online de organização de viagens em família. Com um design simples, mas muito atrativo, a página oferece uma funcionalidade muito útil: a criação de listas de itens que devem ser levados na viagem. <br>
 
